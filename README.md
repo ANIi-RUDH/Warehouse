@@ -3,3 +3,4 @@ https://frontend.ssm.webapps.uplandsdynamic.com/                  this is the li
 
 Adminstrator: Username0:                                   username from admin side
 test_admin
+Password: jduejHje(89K                                    password from admin side
