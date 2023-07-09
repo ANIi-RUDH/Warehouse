@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class EmailServiceConfig(AppConfig):
-    name = 'email_service'
+class AccountsConfig(AppConfig):
+    name = 'accounts'
