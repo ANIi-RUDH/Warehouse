@@ -19,6 +19,8 @@ Django = "*"
 PyYAML = "*"
 Markdown = "*"
 
+
+
 [dev-packages]
 autopep8 = "*"
 pip-licenses = "*"
